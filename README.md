@@ -1,6 +1,6 @@
 # trialLoops
 
-In this problem set, you will build a short experiment containing at least oone trial loop (min 3 trials). Ideally, these trials should involve stimuli that you might use in your research. Practically, they can also just involve a simple event (e.g. presenting different text on each trial). Responses aren't required but would be good practice. Output also isn't required but would be good practice. Basically, you can make this as complex or simple as you like!
+In this problem set, you will build a short experiment containing at least one trial loop (min 3 trials). Ideally, these trials should involve stimuli that you might use in your research. Practically, they can also just involve a simple event (e.g. presenting different text on each trial). Responses aren't required but would be good practice. Output also isn't required but would be good practice. Basically, you can make this as complex or simple as you like!
 
 To help break up the tasks, we've provided three template scripts:
 
